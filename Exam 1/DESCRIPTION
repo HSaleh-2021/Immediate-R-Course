@@ -1,0 +1,12 @@
+Package: SemanticAnalysis
+Type: Package
+Title: Sentiment Analysis Package
+Version: 0.1.
+Who wrote it: Hager Saleh
+Maintainer: The package maintainer <yhagerasaleh@yahoo.com>
+Description: A package to analyze sentiment in text by counting positive and negative words.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Imports: stringr
